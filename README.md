@@ -1,1 +1,1 @@
-Relembrando como funciona o Git. Resolvi excluir o texto que havia logo abaixo desta.
+Relembrando como funciona o Git. Resolvi excluir o texto que havia logo abaixo desta linha.
