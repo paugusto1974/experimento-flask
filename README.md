@@ -1,2 +1,1 @@
-Relembrando como funciona o Git
-Escrevi, salvei, alterei, salvei de novo, mas ainda nada enviei.
+Relembrando como funciona o Git. Resolvi excluir o texto que havia logo abaixo desta.
