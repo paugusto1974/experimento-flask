@@ -1,1 +1,1 @@
-Começando alguns experimentos com Flask e aproveitando para relembrar como funciona o Git.
+Relembrando o funcionamento do Git.
